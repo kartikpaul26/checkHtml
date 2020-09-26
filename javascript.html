@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<script type="text/javascript">
+		
+		function demo() {
+			var fnm = document.getElementById('fname').value;
+			var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+			if (fnm=='') {
+			document.getElementById('error').innerHTML="Please enter your Name";
+			}
+			else if(!fnm.match(mailformat)) 
+	    	{
+	    		document.getElementById('error').innerHTML='Invalid Email';
+	    	}
+			else{
+				document.getElementById('error').innerHTML="";
+			}
+		}
+		 
+	
+	</script>
+</head>
+<body>
+	<form onsubmit="return valid()">
+		<div>
+			<label>FULL NAME</label>
+			<input type="text" name="fname"  id="fname" onkeyup="demo()">
+			<div id="error"></div>
+		</div>
+		<!-- <label>Gender</label>
+ 	<input type="radio" name="Gender" value="Male">Male
+ 	<input type="radio" name="Gender" value="Female">Female
+ 	<input type="radio" name="Gender" value="Transgender">Transgender
+ 	<div id="err_gender"></div><br> -->
+ 			<input type="submit" name="sub-btn">
+	</form>
+</div>
+</body>
+</html>
