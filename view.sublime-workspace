@@ -1,0 +1,1205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arar",
+				"array"
+			],
+			[
+				"I",
+				"India"
+			],
+			[
+				"session_stat",
+				"session_pgsql_status"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"ar",
+				"array_push"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"resu",
+				"resul"
+			],
+			[
+				"a",
+				"array\t$… = array (…)"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"arr1",
+				"arr1sum1"
+			],
+			[
+				"arr",
+				"arr1"
+			],
+			[
+				"array_s",
+				"array_sum"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"array",
+				"array_push"
+			],
+			[
+				"t",
+				"td\tTag"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"m",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"u",
+				"u_contact"
+			],
+			[
+				"f",
+				"form-control"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"da",
+				"dashboard"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"tea",
+				"text-align\tproperty"
+			],
+			[
+				"ce",
+				"check"
+			],
+			[
+				"s",
+				"selected\tAttr"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"u_",
+				"u_balance"
+			],
+			[
+				"pa",
+				"pamount"
+			],
+			[
+				"pn",
+				"pname"
+			],
+			[
+				"p_",
+				"p_name"
+			],
+			[
+				"o",
+				"o_date"
+			],
+			[
+				"ba",
+				"balance"
+			],
+			[
+				"o_",
+				"o_blance"
+			],
+			[
+				"mat",
+				"margin-left\tproperty"
+			],
+			[
+				"o_ba",
+				"o_blance"
+			],
+			[
+				"o_b",
+				"o_blance"
+			],
+			[
+				"onl",
+				"onblur\tAttr"
+			],
+			[
+				"ADD",
+				"add-user"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"delete",
+				"delete_user"
+			],
+			[
+				"ms",
+				"msg"
+			],
+			[
+				"vi",
+				"viewdetails"
+			],
+			[
+				"inser",
+				"insertuser"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"view",
+				"view_details"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"product",
+				"product_category"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"ou",
+				"outline-style\tproperty"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"ot",
+				"otp"
+			],
+			[
+				"backgroundc",
+				"background-color\tproperty"
+			],
+			[
+				"num",
+				"Number"
+			],
+			[
+				"fu",
+				"fullname"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"form-",
+				"form-data"
+			],
+			[
+				"sub",
+				"sub-btn"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"reg",
+				"reg-btn"
+			],
+			[
+				"lo",
+				"login-btn"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"up",
+				"upassword"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"backc",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"fl",
+				"floor"
+			],
+			[
+				"po",
+				"pow"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"to",
+				"toupper"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"SESSION",
+				"session_start"
+			],
+			[
+				"sh",
+				"show_query"
+			],
+			[
+				"pass",
+				"pass"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"SUBMIT",
+				"submit-btn"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"cp",
+				"cpa"
+			],
+			[
+				"un",
+				"u_n"
+			],
+			[
+				"unm",
+				"uname"
+			],
+			[
+				"er",
+				"err_pass"
+			],
+			[
+				"C",
+				"cannot"
+			],
+			[
+				"err",
+				"err_pass"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"nam",
+				"namevalid"
+			],
+			[
+				"onke",
+				"onkeyup\tAttr"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"submit",
+				"submit-btn"
+			],
+			[
+				"arrr",
+				"array_replace"
+			],
+			[
+				"array_re",
+				"array_reverse"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ejob/ajax_problem/file_upload_ajax/upload.php",
+			"settings":
+			{
+				"buffer_size": 891,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ejob/ajax_problem/file_upload_ajax/index.php",
+			"settings":
+			{
+				"buffer_size": 991,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ejob/14 june/AJAX/AJAX_example.php",
+			"settings":
+			{
+				"buffer_size": 2212,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Game/Desktop/validation/validation.js",
+			"settings":
+			{
+				"buffer_size": 4059,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ejob/14 june/AJAX/delete_user.php",
+			"settings":
+			{
+				"buffer_size": 919,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "view.php",
+			"settings":
+			{
+				"buffer_size": 2995,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/CI/CRUD_CI/application/models/Basicmodel.php",
+			"settings":
+			{
+				"buffer_size": 787,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ejob/connect.php",
+			"settings":
+			{
+				"buffer_size": 124,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ejob/10 july/crud.php",
+			"settings":
+			{
+				"buffer_size": 3375,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/ejob/8 july hw/Adminpanel/andim.php",
+			"settings":
+			{
+				"buffer_size": 11555,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/ejob/27may/search.php",
+		"/C/xampp/htdocs/ejob/ajax_problem/OTP/sendopt.php",
+		"/C/xampp/htdocs/ejob/ajax_problem/OTP/textlocal.class.php",
+		"/C/xampp/htdocs/ejob/Alim/details.php",
+		"/F/New folder/kartik/New folder (6)/ejobIndia/18marchstopwatch.html",
+		"/C/xampp/htdocs/ejob/8 july hw/Adminpanel/andim.php",
+		"/C/xampp/htdocs/ejob/8 july hw/Adminpanel/imgtest.php",
+		"/C/xampp/htdocs/local governess/table.html",
+		"/C/xampp/htdocs/ejob/1st batch/typeofarray.php",
+		"/F/New folder/kartik/New folder (6)/ejobIndia/11thMar.html",
+		"/C/Users/Game/Desktop/Summer Training/1stday.html",
+		"/C/xampp/htdocs/ejob/14 june/AJAX/practice/AJAXBasic/Task/selfInfo.php",
+		"/F/New folder/kartik/New folder (6)/ejobIndia/13thMar2019.html",
+		"/F/New folder/kartik/New folder (6)/ejobIndia/15thMar.html",
+		"/C/xampp/htdocs/ejob/Alim/login.php",
+		"/C/xampp/htdocs/ejob/22may/login.php",
+		"/F/New folder/kartik/New folder (6)/ejobIndia/18marchjsnumber.html",
+		"/C/xampp/htdocs/ejob/8 july hw/Adminpanel/register.php",
+		"/C/xampp/htdocs/local governess/largestnumber.php",
+		"/C/xampp/htdocs/ejob/1st batch/stringMethods.php",
+		"/C/xampp/htdocs/ejob/1st batch/array_functions.php",
+		"/C/xampp/htdocs/ejob/8 july hw/Adminpanel/test.php",
+		"/C/xampp/htdocs/ejob/New folder/registration.php",
+		"/C/xampp/htdocs/ejob/registration.php",
+		"/C/xampp/htdocs/ejob/register.php",
+		"/C/xampp/htdocs/ejob/14 june/AJAX/practice/AJAXBasic/sumUsingAjax.php",
+		"/C/xampp/htdocs/ejob/10 july/crud.php",
+		"/C/xampp/htdocs/ejob/14 june/AJAX/practice/AJAXBasic/Task/ajaxBasic.php",
+		"/C/xampp/htdocs/ejob/14 june/AJAX/practice/ajaxUpdate/updateWork.php",
+		"/C/xampp/htdocs/ejob/14 june/AJAX/practice/ajaxUpdate/update.php",
+		"/C/xampp/htdocs/ejob/14 june/AJAX/edit_user.php",
+		"/C/xampp/htdocs/ejob/10 july/Students.php",
+		"/C/xampp/htdocs/ejob/sachi/major_project/pkg_schedule.php",
+		"/C/xampp/htdocs/openSIS/opensis_saipan/modules/students/SearchInc.php",
+		"/C/xampp/htdocs/openSIS/opensis_saipan/Data.php",
+		"/C/xampp/htdocs/ejob/kp/insert_package.php",
+		"/C/xampp/htdocs/ejob/kp/test.php",
+		"/C/xampp/htdocs/ejob/sachi/major_project/insert_package.php",
+		"/C/xampp/htdocs/ejob/22june/table.php",
+		"/C/Users/Game/Downloads/Dashboard.php",
+		"/C/Users/Game/Downloads/view.php",
+		"/C/xampp/htdocs/openSIS/opensis_saipan/DatabaseInc.php",
+		"/C/xampp/htdocs/ejob/22may/dashboard.php",
+		"/C/xampp/htdocs/ejob/sachi/insert_package.php",
+		"/C/xampp/htdocs/ejob/connect.php",
+		"/C/xampp/htdocs/ejob/sachi/major_project/test.php",
+		"/C/Users/Game/Downloads/clientregistration.php",
+		"/C/xampp/htdocs/exam/dashboard.php",
+		"/C/xampp/htdocs/exam/domainname.php",
+		"/C/xampp/htdocs/exam/registration.php",
+		"/C/xampp/htdocs/ejob/22june/echeck.php",
+		"/C/xampp/htdocs/ejob/22june/login.php",
+		"/C/Users/Game/AppData/Local/Temp/Temp1_crud_ajax (1).zip/crud_ajax/application/views/Registration.php",
+		"/C/Users/Game/AppData/Local/Temp/Temp1_crud_ajax (1).zip/crud_ajax/application/views/show_user_details.php",
+		"/C/xampp/htdocs/exam/dropdown.php",
+		"/C/xampp/htdocs/exam/questionE.php",
+		"/C/xampp/htdocs/exam/questionD.php",
+		"/C/xampp/htdocs/exam/questionF.php",
+		"/C/xampp/htdocs/CI/CRUD_CI/application/views/dashboard.php",
+		"/F/MCA/Extra tuitorial/BasicSQLiteApplication/app/src/main/java/com/example/basicsqliteapplication/InsertActivity.java",
+		"/C/xampp/htdocs/ejob/Alim/view.php",
+		"/C/xampp/htdocs/exam/test.php",
+		"/F/MCA/Extra tuitorial/BasicSQLiteApplication/app/src/androidTest/java/com/example/basicsqliteapplication/ExampleInstrumentedTest.java",
+		"/C/xampp/htdocs/ejob/8 july hw/Adminpanel/table.php",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/application/views/insert.php",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/application/models/Basemodel.php",
+		"/C/xampp/htdocs/CI/practise/30july/curd/application/models/Basicmodel.php",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/application/views/view.php",
+		"/C/xampp/htdocs/CI/practise/30july/curd/application/controllers/Curdoperation.php",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/application/controllers/Home.php",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/application/views/edit.php",
+		"/C/xampp/htdocs/exam/design.html",
+		"/C/xampp/htdocs/exam/modna.txt",
+		"/C/xampp/htdocs/exam/fuzz.txt",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/application/views/success.php",
+		"/C/xampp/htdocs/ejob/utpal.php",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/application/config/autoload.php",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/application/config/database.php",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/application/config/routes.php",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/application/config/config.php",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/system/core/Log.php",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/system/core/Input.php",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/.htaccess",
+		"/C/xampp/htdocs/CI/practise/10aug/curd/application/controllers/home.php",
+		"/C/xampp/htdocs/CI/CRUD_CI/application/models/Basicmodel.php",
+		"/C/xampp/htdocs/CI/CRUD_CI/application/views/edit_form.php",
+		"/C/xampp/htdocs/CI/CRUD_CI/application/controllers/Home.php",
+		"/C/xampp/htdocs/CI/CRUD_CI/application/controllers/loop.html",
+		"/C/Users/Game/AppData/Local/Temp/Temp1_opensis_ce7.zip/opensis_ce7/modules/students/Menu.php",
+		"/C/Users/Game/AppData/Local/Temp/Temp1_opensis_ce7.zip/opensis_ce7/modules/students/includes/GeneralInfoInc.php",
+		"/C/Users/Game/AppData/Local/Temp/Temp1_opensis_ce7.zip/opensis_ce7/functions/InputsFnc.php",
+		"/C/xampp/htdocs/ejob/Alim/payment.php",
+		"/C/xampp/htdocs/ejob/plugins/login.php",
+		"/C/xampp/htdocs/ejob/check/Adminpanel/dashbord.php",
+		"/C/xampp/htdocs/ejob/Alim/insertuser.php",
+		"/C/xampp/htdocs/ejob/Alim/order.php",
+		"/C/xampp/htdocs/ejob/Alim/connection.php",
+		"/C/xampp/htdocs/ejob/14 june/AJAX/AJAX_example.php",
+		"/C/xampp/htdocs/ejob/14 june/AJAX/view_users.php",
+		"/C/xampp/htdocs/ejob/Alim/Admin.php",
+		"/C/xampp/htdocs/ejob/23july/machinetest.php",
+		"/C/xampp/htdocs/CI/CRUD_CI/application/controllers/curd.php",
+		"/C/xampp/htdocs/ejob/22june/emailcheck.php",
+		"/C/xampp/htdocs/CI/CRUD_CI_system_core_Exceptions.php",
+		"/C/xampp/htdocs/ejob/Alim/andim.php",
+		"/C/xampp/htdocs/CI/practise/30july/curd/application/views/success.php",
+		"/C/xampp/htdocs/CI/crud/application/views/viewdetails.php",
+		"/C/xampp/htdocs/CI/crud/application/models/Basemodel.php",
+		"/C/xampp/htdocs/CI/crud/application/controllers/Basic.php",
+		"/C/xampp/htdocs/CI/practise/30july/curd/application/views/insert.php",
+		"/C/xampp/htdocs/CI/practise/30july/curd/application/views/viewdetails.php",
+		"/C/xampp/htdocs/CI/crud/application/views/success.php",
+		"/C/xampp/htdocs/CI/crud/application/views/todayview.php",
+		"/C/xampp/htdocs/CI/practise/30july/curd/application/config/database.php",
+		"/C/xampp/htdocs/CI/practise/30july/curd/application/config/autoload.php",
+		"/C/xampp/htdocs/CI/practise/30july/curd/application/views/Base.php",
+		"/C/xampp/htdocs/CI/crud/application/config/autoload.php",
+		"/C/xampp/htdocs/CI/crud/application/config/database.php",
+		"/C/xampp/htdocs/CI/crud/application/config/routes.php",
+		"/C/xampp/htdocs/CI/practise/30july/curd/.htaccess",
+		"/C/xampp/htdocs/CI/practise/30july/curd/application/config/config.php",
+		"/C/xampp/htdocs/CI/practise/30july/curd/application/config/routes.php",
+		"/C/xampp/htdocs/CI/crud/application/config/config.php",
+		"/C/xampp/htdocs/ejob/Alim/view,php",
+		"/C/xampp/htdocs/CI/crud/.htaccess",
+		"/C/xampp/htdocs/ejob/plugins/reggistrationLogin.php",
+		"/C/xampp/htdocs/CI/crud/application/controllers/Bascicontroller.php",
+		"/C/xampp/htdocs/CI/22july/firstproject/application/controllers/Basiccontroller.php"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 178.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".\");",
+			"otherfilename",
+			"opensis_saipan_test_updated",
+			");\n",
+			"></",
+			"successful",
+			"msg",
+			"hh",
+			"Dashboard",
+			"><?= ",
+			"uhobby",
+			"hhh",
+			"alert",
+			";\n",
+			"hoba",
+			"reverification",
+			"files",
+			"string",
+			">\n",
+			"uname",
+			"}\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/ejob/ajax_problem/file_upload_ajax/upload.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/ejob/ajax_problem/file_upload_ajax/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 991,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 496.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/ejob/14 june/AJAX/AJAX_example.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1412,
+								1412
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1516.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Game/Desktop/validation/validation.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2260,
+								2260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2683.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/xampp/htdocs/ejob/14 june/AJAX/delete_user.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								709,
+								709
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 608.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "view.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2495,
+								2495
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2074.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/xampp/htdocs/CI/CRUD_CI/application/models/Basicmodel.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								718,
+								718
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 787.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/xampp/htdocs/ejob/connect.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/xampp/htdocs/ejob/10 july/crud.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3375,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3397.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/xampp/htdocs/ejob/8 july hw/Adminpanel/andim.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7343,
+								7343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5688.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "view.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
